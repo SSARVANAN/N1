@@ -1,4 +1,5 @@
 # N1
-pratice class for git project
-hello
-hi
+pratice class for git project  
+hello  
+hi  
+hello anna  
